@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://music-api-8f8udhtkm-ikart.vercel.app/:match*"
+      "destination": "https://api.ikarts.cn/:match*"
     }
   ]
 }
